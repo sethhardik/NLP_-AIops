@@ -7,7 +7,7 @@ __version__ = "0.0.1"
 
 REPO_NAME = "NLP_-AIops"
 AUTHOR_USER = "sethhardik"
-SRC_REPO = "NLP_-AIops"
+SRC_REPO = "src"
 AUTHOR_EMAIL = "hseth469@gmail.com"
 
 setuptools.setup(
